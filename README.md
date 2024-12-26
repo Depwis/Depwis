@@ -13,7 +13,6 @@ At the same time, I am taking courses for: Software Developer, 1C Developer, Neu
 - Windows administration.
 
 **Applied**:
-- Knowledge of programming languages ​​C#, C++, Python at a basic level
 - Wrote several simple programs in C#, C++, Python.
 - Made several simple platformer games and games like Breakout.
 
